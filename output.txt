@@ -1,0 +1,7 @@
+Minimum values for each row: -2.0 -4.0 -6.0 -4.0 
+Maximum values for each column: 1.0 3.0 4.0 8.0 82.0
+Total value: 118.0
+Enhanced for loop results:
+Minimum values for each row: -2.0 -4.0 -6.0 -4.0
+Maximum values for each column: 1.0 3.0 4.0 8.0 82.0
+Total value: 118.0
